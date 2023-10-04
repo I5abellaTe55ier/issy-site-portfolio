@@ -1,7 +1,6 @@
-baseURL = ''
+baseURL = 'https://I5abellaTe55ier.github.io/issy-site-portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
 theme = 'art-hugo-theme'
 
 [taxonomies]
